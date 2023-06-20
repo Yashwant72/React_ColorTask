@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_ColorTask/static/css/main.9a265dca.css",
+    "main.js": "/React_ColorTask/static/js/main.6239b603.js",
+    "static/js/787.b3ca4345.chunk.js": "/React_ColorTask/static/js/787.b3ca4345.chunk.js",
+    "index.html": "/React_ColorTask/index.html",
+    "main.9a265dca.css.map": "/React_ColorTask/static/css/main.9a265dca.css.map",
+    "main.6239b603.js.map": "/React_ColorTask/static/js/main.6239b603.js.map",
+    "787.b3ca4345.chunk.js.map": "/React_ColorTask/static/js/787.b3ca4345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a265dca.css",
+    "static/js/main.6239b603.js"
+  ]
+}
